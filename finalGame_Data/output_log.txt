@@ -1,0 +1,25 @@
+Initialize engine version: 4.6.0b20 (a3ecf55f1347)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: ATI Mobility Radeon HD 4650 (ID=0x9480)
+    Vendor:   ATI
+    VRAM:     506 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\User\Documents\GitHub\2D-Unity-platformer\finalGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\User\Documents\GitHub\2D-Unity-platformer\finalGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\GitHub\2D-Unity-platformer\finalGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\User\Documents\GitHub\2D-Unity-platformer\finalGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\GitHub\2D-Unity-platformer\finalGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\User\Documents\GitHub\2D-Unity-platformer\finalGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.563 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\User\Documents\GitHub\2D-Unity-platformer\finalGame_Data\Managed\System.Core.dll (this message is harmless)
+UnloadTime: 9.719513 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 383.
+Total: 4.489878 ms (FindLiveObjects: 0.049005 ms CreateObjectMapping: 0.022402 ms MarkObjects: 0.167086 ms  DeleteObjects: 0.008867 ms)
+
